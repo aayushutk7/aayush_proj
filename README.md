@@ -13,6 +13,7 @@ Sub Class: The class that inherits properties from another class is called Sub c
 Super Class:The class whose properties are inherited by sub class is called Base Class or Super class
 1. Single inheritance
 2. Multiple inheritance
+3. Multilevel inheritance
 ## function overloading
 Function overloading is a feature in C++ where two or more functions can have the same name but different parameters.
 Function overloading can be considered as an example of polymorphism feature in C++.
