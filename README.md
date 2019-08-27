@@ -1,4 +1,4 @@
-# Basic concepts of c & c++ programming
+# Basic concepts of c & c++
 ## if- statement:
 The statements inside the body of “if” only execute if the given condition returns true. If the condition returns false then the statements inside “if” are skipped.
 ## switch case
