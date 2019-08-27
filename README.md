@@ -11,6 +11,8 @@ The loop is used for executing a block of statements repeatedly until a given co
 The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important feature of Object Oriented Programming.
 Sub Class: The class that inherits properties from another class is called Sub class or Derived Class.
 Super Class:The class whose properties are inherited by sub class is called Base Class or Super class
+1. Single inheritance
+2. Multiple inheritance
 ## function overloading
 Function overloading is a feature in C++ where two or more functions can have the same name but different parameters.
 Function overloading can be considered as an example of polymorphism feature in C++.
